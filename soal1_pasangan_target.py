@@ -12,5 +12,5 @@ def find_pairs(arr, target):
     return list(output)
 
 arr = [1, 3, 2, 2, 4, 5]
-target = 5
+target = 5 # target
 print(find_pairs(arr, target))  # Output: [(1, 4), (2, 3)]
